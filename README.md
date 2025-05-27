@@ -1,6 +1,6 @@
 # API PARA GERENCIAMENTO DE CATÁLOGO DE FILMES
 
-Desenvolvida com JAVA, API RESTfull, Webservice, conceitos de POO, lógica, etc.
+Desenvolvida com JAVA, API REST, Webservice, conceitos de POO, lógica, etc.
 
 
 

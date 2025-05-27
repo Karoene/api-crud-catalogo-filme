@@ -1,13 +1,10 @@
-import java.util.Scanner;
+
 
 public class Main{
     public static void main(String[] args) {
-        Scanner tec = new Scanner(System.in);
-        String filme1 = tec.nextLine();
+        Movie movie1 = new Movie("Matrix", 1548251.5, 1990 );
 
-        System.out.println(filme1);
+        System.out.println(movie1);
     }
-
-
 
 }
